@@ -15,6 +15,6 @@
   
 <div>
   
-   
+   ![Snake animation](https://github.com/dudetheduck/dudetheduck/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
