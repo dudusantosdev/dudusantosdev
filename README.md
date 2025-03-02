@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/dudetheduck">
+  <a href="https://github.com/dudusantosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudetheduck&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudetheduck&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
@@ -16,6 +16,6 @@
   
 <div>
   
-   ![Snake animation](https://github.com/dudetheduck/dudetheduck/blob/output/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/dudusantosdev/dudusantosdev/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
